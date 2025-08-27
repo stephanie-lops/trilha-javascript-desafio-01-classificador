@@ -1,7 +1,7 @@
 # Classificador de Nível de Herói
 
-Este projeto foi desenvolvido como parte de um desafio de lógica de programação em **JavaScript**.  
-O objetivo é criar um programa que classifica o nível de um herói de acordo com sua quantidade de experiência (XP).
+Este projeto foi desenvolvido como parte de um desafio do **Bootcamp Santander 2025 - Front End** na plataforma **DIO**.  
+O objetivo é praticar conceitos básicos de **JavaScript** como variáveis, operadores, estruturas de decisão e laços de repetição.
 
 ---
 
