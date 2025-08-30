@@ -3,6 +3,8 @@
 Este projeto foi desenvolvido como parte de um desafio do **Bootcamp Santander 2025 - Front End** na plataforma **DIO**.  
 O objetivo é praticar conceitos básicos de **JavaScript** como variáveis, operadores, estruturas de decisão e laços de repetição.
 
+Link deploy: https://trilha-javascript-desafio-01-classi.vercel.app/
+
 ---
 
 ## Regras de Classificação
