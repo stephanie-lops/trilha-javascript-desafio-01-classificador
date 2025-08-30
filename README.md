@@ -25,3 +25,15 @@ Link deploy: https://trilha-javascript-desafio-01-classi.vercel.app/
 1. Baixe ou clone este repositório:
    ```bash
    git clone https://github.com/stephanie-lops/trilha-javascript-desafio-01-classificador
+
+2. Acesse a pasta do projeto:
+   ```bash
+   cd trilha-javascript-desafio-01-classificador
+
+3. Abra o arquivo index.html no navegador de sua preferência
+
+## Créditos
+
+- Projeto desenvolvido no Bootcamp Santander 2025 - Front End (DIO)
+- Autora: Stephanie Lopes
+
